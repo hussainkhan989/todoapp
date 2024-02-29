@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "628937178540",
+    "project_id": "weedinghall-57702",
+    "storage_bucket": "weedinghall-57702.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628937178540:android:91c9cd2d754f2480438e09",
+        "android_client_info": {
+          "package_name": "com.example.todoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_jALDz2o1BjuIk2oz8dvxzSQygwxiAYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
